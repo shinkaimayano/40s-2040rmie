@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "Footprints")(type "KiCad")(uri "D:/Engineering/Keyboard Projects/Footprints and Libraries/RP2040 (Sleepdealr)/PCB/Libraries/Footprints")(options "")(descr ""))
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "D:/Engineering/Keyboard Projects/Footprints and Libraries/marbastlib/marbastlib-mx.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-various")(type "KiCad")(uri "D:/Engineering/Keyboard Projects/Footprints and Libraries/marbastlib/marbastlib-various.pretty")(options "")(descr ""))
+  (lib (name "RP2040_minimal")(type "KiCad")(uri "D:/Engineering/Keyboard Projects/Footprints and Libraries/RP2040/RP2040_minimal/RP2040_minimal.pretty")(options "")(descr ""))
+)
